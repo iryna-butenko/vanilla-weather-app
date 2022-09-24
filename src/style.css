@@ -1,0 +1,84 @@
+h1 {
+  color: #5c5470;
+  font-size: 75px;
+  font-weight: 600;
+  margin: 0 auto;
+}
+
+.btn {
+  background-color: #eaeaea;
+  border: 0;
+  color: #5c5470;
+}
+
+.celsius .fahrenheit {
+  text-decoration: none;
+}
+
+.temperature {
+  font-size: 90px;
+  height: 0;
+}
+.units {
+  position: relative;
+  bottom: 45px;
+  font-size: 30px;
+}
+.img-now {
+  max-width: 40%;
+  display: inline;
+}
+.description {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.date {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.weather-app {
+  max-width: 900px;
+  border-style: none;
+  border-radius: 10px;
+  border: 1px solid red;
+  background-color: yellow;
+
+  margin: 10px 50px;
+  padding: 20px 40px;
+}
+
+.forecast {
+  margin-top: 25px;
+  text-align: center;
+
+  border-radius: 10px;
+}
+.forecast-date {
+  font-size: 20px;
+  font-weight: 600;
+  color: #606470;
+  font-weight: 400;
+  margin: 20px 0px;
+}
+.forecast-temp {
+  font-size: 20px;
+  margin-top: 6px;
+  color: #606470;
+  font-weight: 300;
+}
+.forecast-temp-max {
+  color: #5c5470;
+}
+.forecast-temp-min {
+  color: rgba(92, 84, 112, 0.5);
+}
+.footer {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 30px;
+  color: #5c5470;
+}
+.container {
+}
